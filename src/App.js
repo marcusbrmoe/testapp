@@ -13,8 +13,6 @@ function App() {
           Hello World! This is from team 3
           hello from Q from virtual machine
         </p>
-        <TestQ />
-        <Test />
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -24,6 +22,10 @@ function App() {
           Learn React
         </a>
       </header>
+      <div>
+        <TestQ />
+        <Test />
+      </div>
     </div>
   );
 }
