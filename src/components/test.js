@@ -1,6 +1,6 @@
 import React from 'react';
 
-function test() {
+function Test() {
 
     for (let i = 0; i < 10; i++) {
         console.log('Hello from Marcus!');
@@ -14,4 +14,4 @@ function test() {
     );
 }
 
-export default test;
+export default Test;

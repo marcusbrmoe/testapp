@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import React from 'react';
 import './App.css';
-import test from './components/test';
+import Test from './components/Test';
 import TestQ from './components/TestQ';
 
 function App() {
@@ -23,7 +23,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <test />
+      <div><Test /></div>
     </div>
   );
 }
