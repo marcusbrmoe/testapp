@@ -9,7 +9,7 @@ function App() {
         <p>
           Hello World! This is from team 3
           test - Natalia has access 
-          hello from Q
+          hello from Q from virtual machine
         </p>
         <a
           className="App-link"
