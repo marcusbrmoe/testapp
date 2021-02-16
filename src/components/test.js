@@ -1,7 +1,10 @@
 
 function test() {
 
-    console.log('Hello from Marcus!');
+    for (let i = 0; i < 10; i++) {
+        console.log('Hello from Marcus!');
+    }
+    
 
     return (
         <div>
