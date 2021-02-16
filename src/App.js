@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import test from './components/test';
-import testQ from './components/TestQ';
+import TestQ from './components/TestQ';
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
           Hello World! This is from team 3
           hello from Q from virtual machine
         </p>
-        <p>{testQ}</p>
+        <p><TestQ /></p>
         <a
           className="App-link"
           href="https://reactjs.org"
